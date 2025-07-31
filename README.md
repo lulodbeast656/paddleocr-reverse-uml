@@ -48,3 +48,5 @@ Please refer to the [LICENSE](LICENSE) file for more information.
 
 If you'd like to contribute by improving the diagrams or documenting other OCR libraries, feel free to open an issue or pull request. Let's build a strong open documentation resource together.
 
+<img width="3840" height="2090" alt="image" src="https://github.com/user-attachments/assets/822170b1-dbbd-4ac8-b43f-bb25d7d4d3be" />
+
